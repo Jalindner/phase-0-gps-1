@@ -1,6 +1,6 @@
 # phase-0-gps-1
 GPD 1.1 w/ Alex
-mv <file name> <file directory>: mvoe a file to the directory
+mv <file name> <file directory>: move a file to the directory
 git init: turns a file and creates the .git directory. Allows the use of git commands within the repository.
 git clone <url>: copys the repository associated with the url into the directory
 ls -a: lists all files within the directory
